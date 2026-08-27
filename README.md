@@ -10,7 +10,7 @@ Supplementary Material 3 contains the EICAT mechanism and impact severity tables
 
 Supplementary Material 4 contains the full adapted EICAT literature review of the 10 species assessed and analysed in this thesis. This review also contains an additional sheet with the predicted impact severity of each assessed non-native species on the habitats on each island included within the study area
 
-Supplementary Material 5 contains the RStudio code and data used for the current and maximum potential threat models
+Supplementary Material 5 contains the RStudio code used for the current and maximum potential threat models. You need to download the Finished Data.txt, SpeciesArea.txt, SpeciesMechanism.txt and ImpactConfidence.txt files to run the code
 
 
 If you would like more information on any of this information, please get in touch with me through github or my personal email: ben.brown8050@gmail.com
