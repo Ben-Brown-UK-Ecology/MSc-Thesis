@@ -2,7 +2,7 @@
 
 This repository contains the supplementary material for the MSc Thesis "Assessing Predictors of Non-native Species Impacts across the Western Scottish Islands".
 
-Supplementary Material 1 contains the total human population, habitat heterogeneity and relative threat index values for all studied islands
+Supplementary Material 1 contains the total human population, habitat heterogeneity and island group of each studied island.
 
 Supplementary Material 2 contains a table of evidence of presence of 46 non-native species across the western Scottish islands, including a confidence score of the evidence (see Table 2 in the thesis for more information)
 
